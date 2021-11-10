@@ -45,7 +45,7 @@ sections:
         actions:
           - label: Learn More
             url: /blog
-            style: primary
+            style: secondary
 seo:
   title: Features
   description: This is the features page
